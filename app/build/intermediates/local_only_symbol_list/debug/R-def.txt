@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable circle
+drawable cross
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id img1
+id img2
+id img3
+id img4
+id img5
+id img6
+id img7
+id img8
+id img9
+id playerBoard
+id showmsg
+id showtag
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Application
